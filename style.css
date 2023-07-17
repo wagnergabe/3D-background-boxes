@@ -51,7 +51,7 @@ body {
 }
 
 .box {
-  background-color: yellow;
+  background-image: url('https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif');
   height: 125px;
   width: 125px;
 }
